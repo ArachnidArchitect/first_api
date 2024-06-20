@@ -1,0 +1,164 @@
+{
+  "AboutMe": "My name is Taahir Du Toit and I am a Software Developer at Life Choices",
+
+  "Projects": [
+    {
+      "name": "Calculator",
+      "github": "https://github.com/ArachnidArchitect/week7CalculatorExercises.git",
+      "vercel": "https://week7-calculator-exercises.vercel.app/",
+      "description": "This was my first full-stack exercise. I used HTML, Css and Javascript",
+      "image": "link"
+    },
+    {
+      "name": "E-Commerce",
+      "github": "https://github.com/ArachnidArchitect/E-commerceEOM.git",
+      "vercel": "https://e-commerce-eom.vercel.app/",
+      "description": "This was my first website. It taught me a lot and I had a lot of fun building it. I used HTML, Css and Javascript",
+      "image": "link"
+    },
+    {
+      "name": "Portfolio",
+      "github": "https://github.com/ArachnidArchitect/LSCPortfolio.git",
+      "vercel": "https://lsc-portfolio.vercel.app/",
+      "description": "I was proud of the design I came up with. I used HTML, Css and Bootstrap",
+      "image": "link"
+    }
+  ],
+  "education": [
+    {
+        "description":"",
+        "year":"1st Jan 2019 to 31 Dec 2022",
+        "institution":"Islamia College",
+        "contact":[
+            {
+                "name":"Nurul Huda Kafaar",
+                "phone":"021 007 2509",
+                "email":"kafaarn@islamia.co.za"
+            },
+            {
+                "name":"Islamia College",
+                "phone":"021 696 5600",
+                "email":"info@islamia.co.za"
+            }
+        ] 
+    },
+    {
+        "description":"",
+        "year":"15th April 2024 to Present",
+        "institution":"Life Choices Academy",
+        "contact":[
+            {
+                "name":"Matthew Brown",
+                "phone":"",
+                "email":"akhona0304mjikelo@gmail.com"
+            },
+            {
+                "name":"Akhona Mjikelo",
+                "phone":"0793890862",
+                "email":"akhona0304mjikelo@gmail.com"
+            }
+        ] 
+    }
+
+  ],
+  "skills":[
+      {
+        "name":"HTML",
+        "image":"URL"
+          
+      },
+      {
+        "name":"Css",
+        "image":"URL"
+          
+      },
+      {
+        "name":"Javascript",
+        "image":"URL"
+          
+      },
+      {
+        "name":"Bootstrap",
+        "image":"URL"
+          
+      },
+      {
+        "name":"Vue",
+        "image":"URL"
+          
+      },
+      {
+        "name":"PostgreSQL",
+        "image":"URL"
+          
+      }
+  ],
+  "workExp":[
+    {
+        "placeOfWork":"Plumblink Lansdowne",
+        "year":"2023",
+        "description":"General Assistant",
+        "contact":[
+            {
+                "name":"Fuad Cassiem",
+                "cell":"",
+                "position":"Branch Manager"
+            },
+            {
+                "name":"Ester",
+                "cell":"",
+                "position":"Regional Manager"
+            }
+        ]
+    },
+    {
+        "placeOfWork":"Boldr",
+        "year":"2023 - 2024",
+        "description":"Support Data Engineer",
+        "contact":[
+            {
+                "name":"Akhil Hansjee",
+                "cell":"",
+                "position":"Manager"
+            },
+            {
+                "name":"Vicky",
+                "cell":"",
+                "position":"Client Experience Manager"
+            }
+        ]
+    }
+  ],
+  "testimonials":[
+    {
+        "name":"Muaath Johaar",
+        "position":"QA Tester",
+        "message":""
+    },
+    {
+        "name":"Akhil Hansjee",
+        "position":"Manager",
+        "message":""
+    },
+    {
+        "name":"Dillon Carolus",
+        "position":"Support Engineer ||",
+        "message":""
+    },
+    {
+        "name":"Fuad Cassiem",
+        "position":"Branch Manager",
+        "message":""
+    },
+    {
+        "name":"Elvin Harris",
+        "position":"Software Dev",
+        "message":""
+    },
+    {
+        "name":"Caleb Okkers",
+        "position":"Software Dev",
+        "message":""
+    }
+  ]
+}
