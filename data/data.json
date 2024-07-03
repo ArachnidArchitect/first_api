@@ -133,41 +133,41 @@
         ]
     },
     {
-        "placeOfWork":"Boldr",
-        "year":"2023",
-        "description":"Support Data Engineer",
+        "placeOfWork":"Life Choices",
+        "year":"2024",
+        "description":"Full-stack Web developer",
         "contact":[
             {
-                "name":"Akhil Hansjee",
+                "name":"Matthew Brown",
                 "cell":"",
-                "position":"Manager"
+                "position":"Lecturer"
             },
             {
-                "name":"Vicky",
+                "name":"Joel Mukanya",
                 "cell":"",
-                "position":"Client Experience Manager"
+                "position":"Lecturer"
             }
         ]
-    }
+    } 
   ],
   "testimonials":[
     {
         "name":"Muaath Johaar",
         "position":"QA Tester",
         "message":"“”",
-        "image":""
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/muaathIcon.png"
     },
     {
         "name":"Akhil Hansjee",
         "position":"Manager",
         "message":"“Taahir is ambitous, hardworking, dedicated and eager to learn. He is always taking on extra responsibility.”",
-        "image":""
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/akhilIcon.png"
     },
     {
         "name":"Dillon Carolus",
         "position":"Support Engineer ||",
         "message":"“”",
-        "image":""
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/dillonIcon.png"
     },
     {
         "name":"Fuad Cassiem",
@@ -178,14 +178,14 @@
     {
         "name":"Elvin Harris",
         "position":"Software Dev",
-        "message":"“”",
-        "image":""
+        "message":"“It's been a pleasure having Taahir in my software development class. He's an incredibly quick learner who always seems to grasp new concepts with ease. But what truly sets him apart is his willingness to share his knowledge with others. He explains things clearly and patiently, making even complex topics understandable. His passion for coding is contagious, and it motivates everyone around him to learn more.”",
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/elvinIcon.png"
     },
     {
         "name":"Caleb Okkers",
         "position":"Software Dev",
         "message":"“I am grateful to call Taahir a close friend. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He motivates me to work because both actively and by the outcomes of his work. He is kind, generous and hilarious. Taahir would be a valuable asset to any organization.”",
-        "image":""
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/calebIcon.png"
     }
   ]
 }
