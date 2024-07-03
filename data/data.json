@@ -1,32 +1,36 @@
 {
-  "AboutMe": "My name is Taahir Du Toit and I am a Software Developer at Life Choices",
+  "AboutMe": ["My name is Taahir Du Toit, and I am passionate about technology, particularly in the fields of web development and data engineering. I believe in living an integrated lifestyle, approaching everything holistically, and applying all that I learn.",
+"I started teaching myself to code at the age of 12 after being fascinated by the endless control the digital realm has to offer. Since then, I've expanded my skills from coding to video editing,some basic programming and more.",
+"In my free time, I enjoy playing pool, surfing, spending time with friends and family, learning new skills, and reading. I am outgoing and thrive on meeting new people and exploring new activities.",
+"Diligence and focus are important to me. I approach tasks systematically to ensure comprehensive coverage. I excel in communication and thrive in team environments.",
+"Let's get together! I'd love the opportunity to get to know you too;)"],
 
   "Projects": [
-    {
-      "name": "Calculator",
-      "github": "https://github.com/ArachnidArchitect/week7CalculatorExercises.git",
-      "vercel": "https://week7-calculator-exercises.vercel.app/",
-      "description": "This was my first full-stack exercise. I used HTML, Css and Javascript",
-      "image": "link"
-    },
     {
       "name": "E-Commerce",
       "github": "https://github.com/ArachnidArchitect/E-commerceEOM.git",
       "vercel": "https://e-commerce-eom.vercel.app/",
       "description": "This was my first website. It taught me a lot and I had a lot of fun building it. I used HTML, Css and Javascript",
-      "image": "link"
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/surflifeThumb.png"
     },
     {
-      "name": "Portfolio",
-      "github": "https://github.com/ArachnidArchitect/LSCPortfolio.git",
-      "vercel": "https://lsc-portfolio.vercel.app/",
-      "description": "I was proud of the design I came up with. I used HTML, Css and Bootstrap",
-      "image": "link"
+      "name": "Hulu",
+      "github": "https://github.com/ArachnidArchitect/hulu.git",
+      "vercel": "https://hulu-rho-navy.vercel.app/",
+      "description": "This was one of my first HTML and CSS exercises. It taught me about alignment and the importance of approaching web developement in a systematic order",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/huluThumb.png"
+    },
+    {
+      "name": "Lippy Llama",
+      "github": "https://github.com/ArachnidArchitect/LippyLlama2024.git",
+      "vercel": "https://lippy-llama2024.vercel.app/",
+      "description": "This is a project I created during the time I was self-learning html and css. I learnt the proper use of flex box while there was still a lot of area for growth. ",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/lippyllamaThumb.png"
     }
   ],
   "education": [
     {
-        "description":"",
+        "description":"I participated in a range of extra-cirricular activities including athletics, rugby and nasheed",
         "year":"1st Jan 2019 to 31 Dec 2022",
         "institution":"Islamia College",
         "contact":[
@@ -43,7 +47,7 @@
         ] 
     },
     {
-        "description":"",
+        "description":"This was  a six month course in which I further developed my full-stack abilities, soft-skills and met some amazing people along the way",
         "year":"15th April 2024 to Present",
         "institution":"Life Choices Academy",
         "contact":[
@@ -95,6 +99,23 @@
   ],
   "workExp":[
     {
+      "placeOfWork":"Boldr",
+      "year":"2023 - 2024",
+      "description":"Support Data Engineer",
+      "contact":[
+          {
+              "name":"Akhil Hansjee",
+              "cell":"",
+              "position":"Manager"
+          },
+          {
+              "name":"Vicky",
+              "cell":"",
+              "position":"Client Experience Manager"
+          }
+      ]
+  },
+    {
         "placeOfWork":"Plumblink Lansdowne",
         "year":"2023",
         "description":"General Assistant",
@@ -113,7 +134,7 @@
     },
     {
         "placeOfWork":"Boldr",
-        "year":"2023 - 2024",
+        "year":"2023",
         "description":"Support Data Engineer",
         "contact":[
             {
@@ -133,32 +154,38 @@
     {
         "name":"Muaath Johaar",
         "position":"QA Tester",
-        "message":""
+        "message":"“”",
+        "image":""
     },
     {
         "name":"Akhil Hansjee",
         "position":"Manager",
-        "message":""
+        "message":"“Taahir is ambitous, hardworking, dedicated and eager to learn. He is always taking on extra responsibility.”",
+        "image":""
     },
     {
         "name":"Dillon Carolus",
         "position":"Support Engineer ||",
-        "message":""
+        "message":"“”",
+        "image":""
     },
     {
         "name":"Fuad Cassiem",
         "position":"Branch Manager",
-        "message":""
+        "message":"“Taahir is great problem solver. He works well with other and definitely goes the extra mile.”",
+        "image":""
     },
     {
         "name":"Elvin Harris",
         "position":"Software Dev",
-        "message":""
+        "message":"“”",
+        "image":""
     },
     {
         "name":"Caleb Okkers",
         "position":"Software Dev",
-        "message":""
+        "message":"“I am grateful to call Taahir a close friend. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He motivates me to work because both actively and by the outcomes of his work. He is kind, generous and hilarious. Taahir would be a valuable asset to any organization.”",
+        "image":""
     }
   ]
 }
