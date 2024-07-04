@@ -26,6 +26,27 @@
       "vercel": "https://lippy-llama2024.vercel.app/",
       "description": "This is a project I created during the time I was self-learning html and css. I learnt the proper use of flex box while there was still a lot of area for growth. ",
       "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/lippyllamaThumb.png"
+    },
+    {
+      "name": "E-Commerce",
+      "github": "https://github.com/ArachnidArchitect/E-commerceEOM.git",
+      "vercel": "https://e-commerce-eom.vercel.app/",
+      "description": "This was my first website. It taught me a lot and I had a lot of fun building it. I used HTML, Css and Javascript",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/surflifeThumb.png"
+    },
+    {
+      "name": "Hulu",
+      "github": "https://github.com/ArachnidArchitect/hulu.git",
+      "vercel": "https://hulu-rho-navy.vercel.app/",
+      "description": "This was one of my first HTML and CSS exercises. It taught me about alignment and the importance of approaching web developement in a systematic order",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/huluThumb.png"
+    },
+    {
+      "name": "Lippy Llama",
+      "github": "https://github.com/ArachnidArchitect/LippyLlama2024.git",
+      "vercel": "https://lippy-llama2024.vercel.app/",
+      "description": "This is a project I created during the time I was self-learning html and css. I learnt the proper use of flex box while there was still a lot of area for growth. ",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/lippyllamaThumb.png"
     }
   ],
   "education": [
