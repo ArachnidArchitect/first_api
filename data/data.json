@@ -8,44 +8,44 @@
   "Projects": [
     {
       "name": "E-Commerce",
-      "github": "https://github.com/ArachnidArchitect/E-commerceEOM.git",
+      "github": "https://github.com/ArachnidArchitect/E-commerceEOM",
       "vercel": "https://e-commerce-eom.vercel.app/",
       "description": "This was my first website. It taught me a lot and I had a lot of fun building it. I used HTML, Css and Javascript",
       "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/surflifeThumb.png"
     },
     {
       "name": "Hulu",
-      "github": "https://github.com/ArachnidArchitect/hulu.git",
+      "github": "https://github.com/ArachnidArchitect/hulu",
       "vercel": "https://hulu-rho-navy.vercel.app/",
       "description": "This was one of my first HTML and CSS exercises. It taught me about alignment and the importance of approaching web developement in a systematic order",
       "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/huluThumb.png"
     },
     {
       "name": "Lippy Llama",
-      "github": "https://github.com/ArachnidArchitect/LippyLlama2024.git",
+      "github": "https://github.com/ArachnidArchitect/LippyLlama2024",
       "vercel": "https://lippy-llama2024.vercel.app/",
       "description": "This is a project I created during the time I was self-learning html and css. I learnt the proper use of flex box while there was still a lot of area for growth. ",
       "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/lippyllamaThumb.png"
     },
     {
-      "name": "E-Commerce",
-      "github": "https://github.com/ArachnidArchitect/E-commerceEOM.git",
-      "vercel": "https://e-commerce-eom.vercel.app/",
-      "description": "This was my first website. It taught me a lot and I had a lot of fun building it. I used HTML, Css and Javascript",
-      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/surflifeThumb.png"
+      "name": "Books - vue",
+      "github": "https://github.com/ArachnidArchitect/first-vue-application",
+      "vercel": "https://jstn-tmbrlk.web.app/products",
+      "description": "This was my first vue project. I used it to explore everything I learnt. I got to use v-directives, methods, the data function, props and slots. Good fun",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/booksThumb.png"
     },
     {
-      "name": "Hulu",
-      "github": "https://github.com/ArachnidArchitect/hulu.git",
-      "vercel": "https://hulu-rho-navy.vercel.app/",
-      "description": "This was one of my first HTML and CSS exercises. It taught me about alignment and the importance of approaching web developement in a systematic order",
-      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/huluThumb.png"
+      "name": "Hangman",
+      "github": "https://github.com/ArachnidArchitect/hangman",
+      "vercel": "https://hangman-swart-iota.vercel.app/",
+      "description": "This was a fun exercise i used to test my ability. It helped me improve my debugging and problem solving skills. It also integrates an api to get a random word which was something I found challenging at the time.I show it to friends and family and it seems to be just the right level of difficulty that people keep playing it.",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/hangmanThumb.png"
     },
     {
-      "name": "Lippy Llama",
-      "github": "https://github.com/ArachnidArchitect/LippyLlama2024.git",
-      "vercel": "https://lippy-llama2024.vercel.app/",
-      "description": "This is a project I created during the time I was self-learning html and css. I learnt the proper use of flex box while there was still a lot of area for growth. ",
+      "name": "To Do App",
+      "github": "https://github.com/ArachnidArchitect/-27.06-todo-list",
+      "vercel": "https://27-06-todo-list.vercel.app/",
+      "description": "This is a tool that I use almost daily. I created it to consolodate work that was taught at Life Choices. I plan to link it to an database once I learn the CRUD method so that it can be used as a journal to look back at your progress ",
       "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/lippyllamaThumb.png"
     }
   ],
@@ -185,16 +185,16 @@
         "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/akhilIcon.png"
     },
     {
-        "name":"Dillon Carolus",
-        "position":"Support Engineer ||",
+        "name":"Matthew Brown",
+        "position":"Lecturer",
         "message":"“”",
         "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/dillonIcon.png"
     },
     {
-        "name":"Fuad Cassiem",
-        "position":"Branch Manager",
-        "message":"“Taahir is great problem solver. He works well with other and definitely goes the extra mile.”",
-        "image":""
+        "name":"Akhona Mjikelo",
+        "position":"Full-stack Web Developer",
+        "message":"“Working with Taahir has been an absolute pleasure. His drive and hard work for excellence is truly inspiring. You can tell he is passionate about helping others because whenever I need guidance, he generously shares his time and knowledge, ensuring that I am not left behind.  His supportive nature makes him a great colleague and friend.”",
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/akhonaIcon.png"
     },
     {
         "name":"Elvin Harris",
@@ -208,5 +208,21 @@
         "message":"“I am grateful to call Taahir a close friend. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He motivates me to work because both actively and by the outcomes of his work. He is kind, generous and hilarious. Taahir would be a valuable asset to any organization.”",
         "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/calebIcon.png"
     }
-  ]
+  ],
+  "aboutAttrList":["Self motivated", "Goal orientated", "Helpful", " A team player", "Curious", "Determined"],
+  "Hobbies":[
+    {
+      "name":"Surfing",
+      "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/surfingIcon.png"
+    },
+    {
+      "name":"Pool",
+      "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/poolIcon.png"
+    },
+    {
+      "name":"New Experiences",
+      "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/analyticsIcon.png"
+    }
+
+      ]
 }
