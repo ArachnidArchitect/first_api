@@ -74,7 +74,7 @@
         "contact":[
             {
                 "name":"Matthew Brown",
-                "phone":"",
+                "phone":"0715634139",
                 "email":"akhona0304mjikelo@gmail.com"
             },
             {
@@ -89,32 +89,32 @@
   "skills":[
       {
         "name":"HTML",
-        "image":"URL"
+        "image":"<i class='fa-brands fa-html5 fa-9x'></i>"
           
       },
       {
         "name":"Css",
-        "image":"URL"
+        "image":"<i class='fa-brands fa-css3-alt fa-9x'></i>"
           
       },
       {
         "name":"Javascript",
-        "image":"URL"
+        "image":"<i class='fa-brands fa-js fa-9x'></i>"
           
       },
       {
         "name":"Bootstrap",
-        "image":"URL"
+        "image":"<i class='fa-brands fa-bootstrap fa-9x'></i>"
           
       },
       {
-        "name":"Vue",
-        "image":"URL"
+        "name":"Vue Js",
+        "image":"<i class='fa-brands fa-vuejs fa-9x'></i>"
           
       },
       {
         "name":"PostgreSQL",
-        "image":"URL"
+        "image":"<i class='fa-light fa-database fa-9x'></i>"
           
       }
   ],
@@ -160,7 +160,7 @@
         "contact":[
             {
                 "name":"Matthew Brown",
-                "cell":"",
+                "cell":"0715634139",
                 "position":"Lecturer"
             },
             {
@@ -179,16 +179,16 @@
         "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/muaathIcon.png"
     },
     {
-        "name":"Akhil Hansjee",
-        "position":"Manager",
+        "name":"Dillon Carolus",
+        "position":"Data Engineer T1",
         "message":"“Taahir is ambitous, hardworking, dedicated and eager to learn. He is always taking on extra responsibility.”",
         "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/akhilIcon.png"
     },
     {
         "name":"Matthew Brown",
         "position":"Lecturer",
-        "message":"“”",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/dillonIcon.png"
+        "message":"“Taahir is a driven and dedicated individual. His critical thinking really proves his skill in creativity for Web development and Data Science.”",
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/matthewIcon.png"
     },
     {
         "name":"Akhona Mjikelo",
