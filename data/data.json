@@ -50,6 +50,24 @@
     }
   ],
   "education": [
+      {
+        "description":"This was  a six month course in which I further developed my full-stack abilities, soft-skills and met some amazing people along the way",
+        "year":"15th April 2024 to Present",
+        "institution":"Life Choices Academy",
+        "link":"",
+        "contact":[
+            {
+                "name":"Matthew Brown",
+                "phone":"0715634139",
+                "email":"akhona0304mjikelo@gmail.com"
+            },
+            {
+                "name":"Akhona Mjikelo",
+                "phone":"0793890862",
+                "email":"akhona0304mjikelo@gmail.com"
+            }
+        ] 
+    },
     {
         "description":"I participated in a range of extra-cirricular activities including athletics, rugby and nasheed",
         "year":"1st Jan 2019 to 31 Dec 2022",
@@ -67,60 +85,59 @@
                 "email":"info@islamia.co.za"
             }
         ] 
-    },
-    {
-        "description":"This was  a six month course in which I further developed my full-stack abilities, soft-skills and met some amazing people along the way",
-        "year":"15th April 2024 to Present",
-        "institution":"Life Choices Academy",
-        "link":"",
-        "contact":[
-            {
-                "name":"Matthew Brown",
-                "phone":"0715634139",
-                "email":"akhona0304mjikelo@gmail.com"
-            },
-            {
-                "name":"Akhona Mjikelo",
-                "phone":"0793890862",
-                "email":"akhona0304mjikelo@gmail.com"
-            }
-        ] 
     }
 
   ],
   "skills":[
       {
         "name":"HTML",
-        "image":"<i class='fa-brands fa-html5 fa-9x'></i>"
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/htmlIcon.png"
           
       },
       {
         "name":"Css",
-        "image":"<i class='fa-brands fa-css3-alt fa-9x'></i>"
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/cssIcon.png"
           
       },
       {
         "name":"Javascript",
-        "image":"<i class='fa-brands fa-js fa-9x'></i>"
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/jsIcon.png"
           
       },
       {
         "name":"Bootstrap",
-        "image":"<i class='fa-brands fa-bootstrap fa-9x'></i>"
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/bootstrapIcon.png"
           
       },
       {
         "name":"Vue Js",
-        "image":"<i class='fa-brands fa-vuejs fa-9x'></i>"
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/vueIcon.png"
           
       },
       {
         "name":"PostgreSQL",
-        "image":"<i class='fa-light fa-database fa-9x'></i>"
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/sqlIcon.png"
           
       }
   ],
   "workExp":[
+     {
+        "placeOfWork":"Life Choices",
+        "year":"2024",
+        "description":"Full-stack Web developer Intern",
+        "contact":[
+            {
+                "name":"Matthew Brown",
+                "cell":"0715634139",
+                "position":"Lecturer"
+            },
+            {
+                "name":"Joel Mukanya",
+                "cell":"",
+                "position":"Lecturer"
+            }
+        ]
+    }, 
     {
       "placeOfWork":"Boldr",
       "year":"2023 - 2024",
@@ -156,24 +173,7 @@
                 "position":"Regional Manager"
             }
         ]
-    },
-    {
-        "placeOfWork":"Life Choices",
-        "year":"2024",
-        "description":"Full-stack Web developer",
-        "contact":[
-            {
-                "name":"Matthew Brown",
-                "cell":"0715634139",
-                "position":"Lecturer"
-            },
-            {
-                "name":"Joel Mukanya",
-                "cell":"",
-                "position":"Lecturer"
-            }
-        ]
-    } 
+    }
   ],
   "testimonials":[
     {
