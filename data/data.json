@@ -120,6 +120,33 @@
           
       }
   ],
+  "softSkills":[
+      {
+        "name":"Leadership",
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/leadershipIcon.png"
+          
+      },
+      {
+        "name":"Teamwork",
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/teamworkIcon.png"
+          
+      },
+      {
+        "name":"Critical Thinking",
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/thinkingIcon.png"
+          
+      },
+      {
+        "name":"Innovation",
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/innovativeIcon.png"
+          
+      },
+      {
+        "name":"Communication",
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/communicationIcon.png"
+          
+      }
+  ],
   "workExp":[
      {
         "placeOfWork":"Life Choices",
