@@ -50,11 +50,24 @@
     }
   ],
   "education": [
+    {
+        "description":"This was a 2 week series of courses in which I developed my AWS CCP exam readiness ",
+        "year":"October 2024",
+        "institution":"AWS Skills Centre",
+        "link":"https://drive.google.com/file/d/1UOIlTV2S5DLVJS_4Ew0pdIN54eqfqsqg/view?usp=sharing",
+        "contact":[
+            {
+                "name":"Darron Gelderbloem",
+                "phone":"",
+                "email":"darron@lifechoices.co.za"
+            }
+        ] 
+    },
       {
         "description":"This was  a six month course in which I further developed my full-stack abilities, soft-skills and met some amazing people along the way",
         "year":"15th April 2024 to Present",
         "institution":"Life Choices Academy",
-        "link":"",
+        "link":"https://drive.google.com/file/d/1UOIlTV2S5DLVJS_4Ew0pdIN54eqfqsqg/view?usp=sharing",
         "contact":[
             {
                 "name":"Matthew Brown",
@@ -118,7 +131,23 @@
         "name":"PostgreSQL",
         "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/sqlIcon.png"
           
-      }
+      },
+      {
+        "name":"Figma",
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/figmaIcon.png"
+          
+      },
+      {
+        "name":"Spline",
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/splineIcon.png"
+          
+      },
+      {
+        "name":"AWS",
+        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/awsIcon.png"
+          
+      },
+    
   ],
   "softSkills":[
       {
@@ -152,6 +181,7 @@
         "placeOfWork":"Life Choices",
         "year":"2024",
         "description":"Full-stack Web developer Intern",
+       "link":"https://drive.google.com/file/d/1UOIlTV2S5DLVJS_4Ew0pdIN54eqfqsqg/view?usp=sharing",
         "contact":[
             {
                 "name":"Matthew Brown",
