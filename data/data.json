@@ -14,6 +14,20 @@
       "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/surflifeThumb.png"
     },
     {
+      "name": "Hangman",
+      "github": "https://github.com/ArachnidArchitect/hangman",
+      "vercel": "https://hangman-swart-iota.vercel.app/",
+      "description": "This was a fun exercise i used to test my ability. It helped me improve my debugging and problem solving skills. It also integrates an api to get a random word which was something I found challenging at the time.I show it to friends and family and it seems to be just the right level of difficulty that people keep playing it.",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/hangmanThumb.png"
+    },
+    {
+      "name": "To Do App",
+      "github": "https://github.com/ArachnidArchitect/-27.06-todo-list",
+      "vercel": "https://27-06-todo-list.vercel.app/",
+      "description": "This is a tool that I use almost daily. I created it to consolodate work that was taught at Life Choices. I plan to link it to an database once I learn the CRUD method so that it can be used as a journal to look back at your progress ",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/todoThumb.png"
+    },
+    {
       "name": "Hulu",
       "github": "https://github.com/ArachnidArchitect/hulu",
       "vercel": "https://hulu-rho-navy.vercel.app/",
@@ -33,20 +47,6 @@
       "vercel": "https://jstn-tmbrlk.web.app/products",
       "description": "This was my first vue project. I used it to explore everything I learnt. I got to use v-directives, methods, the data function, props and slots. Good fun",
       "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/booksThumb.png"
-    },
-    {
-      "name": "Hangman",
-      "github": "https://github.com/ArachnidArchitect/hangman",
-      "vercel": "https://hangman-swart-iota.vercel.app/",
-      "description": "This was a fun exercise i used to test my ability. It helped me improve my debugging and problem solving skills. It also integrates an api to get a random word which was something I found challenging at the time.I show it to friends and family and it seems to be just the right level of difficulty that people keep playing it.",
-      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/hangmanThumb.png"
-    },
-    {
-      "name": "To Do App",
-      "github": "https://github.com/ArachnidArchitect/-27.06-todo-list",
-      "vercel": "https://27-06-todo-list.vercel.app/",
-      "description": "This is a tool that I use almost daily. I created it to consolodate work that was taught at Life Choices. I plan to link it to an database once I learn the CRUD method so that it can be used as a journal to look back at your progress ",
-      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/todoThumb.png"
     }
   ],
   "education": [
