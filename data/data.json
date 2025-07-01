@@ -8,6 +8,13 @@
   ],
   "Projects": [
     {
+      "name": "Booking system",
+      "github": "https://github.com/ArachnidArchitect/taahir-dutoit-capstone",
+      "vercel": "https://lc-booking-51405.web.app/",
+      "description": "built a booking system for Life Choices",
+      "image": "https://ArachnidArchitect.github.io/portfolio-hosting-v1/1751377790026-booking.png"
+    },
+    {
       "name": "data analysis",
       "github": "https://github.com/ArachnidArchitect/my-cool-app",
       "vercel": "https://mycoolapp.vercel.app",
