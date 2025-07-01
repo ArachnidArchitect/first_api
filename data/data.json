@@ -8,6 +8,13 @@
   ],
   "Projects": [
     {
+      "name": "Tagging system",
+      "github": "https://github.com/ArachnidArchitect/",
+      "vercel": "https://arachnidarchitect.github.io/portfolio-hosting-v1/Digital%20time%20attendace%20case%20study.pdf",
+      "description": "built a tagging system for Life Choices",
+      "image": "https://ArachnidArchitect.github.io/portfolio-hosting-v1/1751379144512-tagging.png"
+    },
+    {
       "name": "Booking system",
       "github": "https://github.com/ArachnidArchitect/taahir-dutoit-capstone",
       "vercel": "https://lc-booking-51405.web.app/",
