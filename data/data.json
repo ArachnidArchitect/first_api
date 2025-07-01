@@ -1,10 +1,11 @@
 {
-  "AboutMe": ["My name is Taahir Du Toit, and I am passionate about technology, particularly in the fields of web development and data engineering. I believe in living an integrated lifestyle, approaching everything holistically, and applying all that I learn.",
-"I started teaching myself to code at the age of 12 after being fascinated by the endless control the digital realm has to offer. Since then, I've expanded my skills from coding to video editing,some basic programming and more.",
-"In my free time, I enjoy playing pool, surfing, spending time with friends and family, learning new skills, and reading. I am outgoing and thrive on meeting new people and exploring new activities.",
-"Diligence and focus are important to me. I approach tasks systematically to ensure comprehensive coverage. I excel in communication and thrive in team environments.",
-"Let's get together! I'd love the opportunity to get to know you too;)"],
-
+  "AboutMe": [
+    "My name is Taahir Du Toit, and I am passionate about technology, particularly in the fields of web development and data engineering. I believe in living an integrated lifestyle, approaching everything holistically, and applying all that I learn.",
+    "I started teaching myself to code at the age of 12 after being fascinated by the endless control the digital realm has to offer. Since then, I've expanded my skills from coding to video editing,some basic programming and more.",
+    "In my free time, I enjoy playing pool, surfing, spending time with friends and family, learning new skills, and reading. I am outgoing and thrive on meeting new people and exploring new activities.",
+    "Diligence and focus are important to me. I approach tasks systematically to ensure comprehensive coverage. I excel in communication and thrive in team environments.",
+    "Let's get together! I'd love the opportunity to get to know you too;)"
+  ],
   "Projects": [
     {
       "name": "E-Commerce",
@@ -47,243 +48,237 @@
       "vercel": "https://jstn-tmbrlk.web.app/products",
       "description": "This was my first vue project. I used it to explore everything I learnt. I got to use v-directives, methods, the data function, props and slots. Good fun",
       "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/booksThumb.png"
+    },
+    {
+      "description": "built with pandas, matplotlib and python",
+      "image": "https://ArachnidArchitect.github.io/portfolio-hosting-v1/1751376244955-ChatGPT Image Jul 1, 2025, 09_06_43 AM.png"
     }
   ],
   "education": [
     {
-        "description":"This was a 2 week series of courses in which I developed my AWS CCP exam readiness ",
-        "year":"October 2024",
-        "institution":"AWS Skills Centre",
-        "link":"https://drive.google.com/drive/folders/1gVxxcJ55ogsNqgg5x-TetbcpkRSoM6x9?usp=drive_link",
-        "contact":[
-            {
-                "name":"Darron Gelderbloem",
-                "phone":"",
-                "email":"darron@lifechoices.co.za"
-            }
-        ] 
-    },
-      {
-        "description":"This was  a six month course in which I further developed my full-stack abilities, soft-skills and met some amazing people along the way",
-        "year":"15th April 2024 to Present",
-        "institution":"Life Choices Academy",
-        "link":"https://drive.google.com/file/d/1UOIlTV2S5DLVJS_4Ew0pdIN54eqfqsqg/view?usp=sharing",
-        "contact":[
-            {
-                "name":"Matthew Brown",
-                "phone":"0715634139",
-                "email":"akhona0304mjikelo@gmail.com"
-            },
-            {
-                "name":"Akhona Mjikelo",
-                "phone":"0793890862",
-                "email":"akhona0304mjikelo@gmail.com"
-            }
-        ] 
-    },
-    {
-        "description":"I participated in a range of extra-cirricular activities including athletics, rugby and nasheed",
-        "year":"1st Jan 2019 to 31 Dec 2022",
-        "institution":"Islamia College",
-        "link":"https://drive.google.com/file/d/1M8kGzd97bhVRv2T7ujJFt8HewKacvtN6/view?usp=sharing",
-        "contact":[
-            {
-                "name":"Nurul Huda Kafaar",
-                "phone":"021 007 2509",
-                "email":"kafaarn@islamia.co.za"
-            },
-            {
-                "name":"Islamia College",
-                "phone":"021 696 5600",
-                "email":"info@islamia.co.za"
-            }
-        ] 
-    }
-
-  ],
-  "skills":[
-      {
-        "name":"HTML",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/htmlIcon.png"
-          
-      },
-      {
-        "name":"Css",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/cssIcon.png"
-          
-      },
-      {
-        "name":"Javascript",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/jsIcon.png"
-          
-      },
-      {
-        "name":"Bootstrap",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/bootstrapIcon.png"
-          
-      },
-      {
-        "name":"Vue Js",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/vueIcon.png"
-          
-      },
-      {
-        "name":"PostgreSQL",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/sqlIcon.png"
-          
-      },
-      {
-        "name":"Figma",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/figmaIcon.png"
-          
-      },
-      {
-        "name":"Spline",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/splineIcon.png"
-          
-      },
-      {
-        "name":"AWS",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/awsIcon.png"
-          
-      }
-    
-  ],
-  "softSkills":[
-      {
-        "name":"Leadership",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/leadershipIcon.png"
-          
-      },
-      {
-        "name":"Teamwork",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/teamworkIcon.png"
-          
-      },
-      {
-        "name":"Critical Thinking",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/thinkingIcon.png"
-          
-      },
-      {
-        "name":"Innovation",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/innovativeIcon.png"
-          
-      },
-      {
-        "name":"Communication",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/communicationIcon.png"
-          
-      }
-  ],
-  "workExp":[
-     {
-        "placeOfWork":"Life Choices",
-        "year":"2024",
-        "description":"Full-stack Web developer Intern",
-       "link":"https://drive.google.com/file/d/1UOIlTV2S5DLVJS_4Ew0pdIN54eqfqsqg/view?usp=sharing",
-        "contact":[
-            {
-                "name":"Matthew Brown",
-                "cell":"0715634139",
-                "position":"Lecturer"
-            },
-            {
-                "name":"Joel Mukanya",
-                "cell":"",
-                "position":"Lecturer"
-            }
-        ]
-    }, 
-    {
-      "placeOfWork":"Boldr",
-      "year":"2023 - 2024",
-      "description":"Support Data Engineer",
-      "link":"https://drive.google.com/file/d/15qo2Sy95wr1creR9tE53dSrO26vLPKTs/view?usp=sharing",
-      "contact":[
-          {
-              "name":"Akhil Hansjee",
-              "cell":"",
-              "position":"Manager"
-          },
-          {
-              "name":"Vicky",
-              "cell":"",
-              "position":"Client Experience Manager"
-          }
+      "description": "This was a 2 week series of courses in which I developed my AWS CCP exam readiness ",
+      "year": "October 2024",
+      "institution": "AWS Skills Centre",
+      "link": "https://drive.google.com/drive/folders/1gVxxcJ55ogsNqgg5x-TetbcpkRSoM6x9?usp=drive_link",
+      "contact": [
+        {
+          "name": "Darron Gelderbloem",
+          "phone": "",
+          "email": "darron@lifechoices.co.za"
+        }
       ]
-  },
-    {
-        "placeOfWork":"Plumblink Lansdowne",
-        "year":"2023",
-        "description":"General Assistant",
-        "link":"https://drive.google.com/file/d/1og0b4PQTAiaC3XQ86MlMEpwjKjD9-PmX/view?usp=sharing",
-        "contact":[
-            {
-                "name":"Fuad Cassiem",
-                "cell":"",
-                "position":"Branch Manager"
-            },
-            {
-                "name":"Ester",
-                "cell":"",
-                "position":"Regional Manager"
-            }
-        ]
-    }
-  ],
-  "testimonials":[
-    {
-        "name":"Muaath Johaar",
-        "position":"QA Tester",
-        "message":"“I am delighted to provide this testimonial for Taahir Du Toit, whom I have had the pleasure of working with at Boldr together. During our time together, I have consistently been impressed by his abilities and contributions.He is an incredibly talented individual, possessing a remarkable blend of skills, such as technical expertise, leadership and empathy. I highly recommend Taahir for any IT/ developer riles. He has proven himself to be not only a skilled professional but also a person of integrity and reliability. Feel free to contact me at muaath.johaar44@gmail.com if you would like to his experience further. Regards, Muaath Johaar”",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/muaathIcon.png"
     },
     {
-        "name":"Dillon Carolus",
-        "position":"Data Engineer T1",
-        "message":"“Ambition is a driving force in his life. He constantly strives to set high goals for himself. From my observations, he actively seeks self-improvement and skill development. As a colleague, he excels in team settings, taking the lead on new tasks and projects to meet deadlines. Working with Taahir has been a pleasure, he’s a kind and remarkable person.”",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/dillonIcon.png"
-    },
-    {
-        "name":"Matthew Brown",
-        "position":"Lecturer",
-        "message":"“Taahir is a driven and dedicated individual. His critical thinking really proves his skill in creativity for Web development and Data Science.”",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/matthewIcon.png"
-    },
-    {
-        "name":"Akhona Mjikelo",
-        "position":"Full-stack Web Developer",
-        "message":"“Working with Taahir has been an absolute pleasure. His drive and hard work for excellence is truly inspiring. You can tell he is passionate about helping others because whenever I need guidance, he generously shares his time and knowledge, ensuring that I am not left behind.  His supportive nature makes him a great colleague and friend.”",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/akhonaIcon.png"
-    },
-    {
-        "name":"Elvin Harris",
-        "position":"Software Dev",
-        "message":"“It's been a pleasure having Taahir in my software development class. He's an incredibly quick learner who always seems to grasp new concepts with ease. But what truly sets him apart is his willingness to share his knowledge with others. He explains things clearly and patiently, making even complex topics understandable. His passion for coding is contagious, and it motivates everyone around him to learn more.”",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/elvinIcon.png"
-    },
-    {
-        "name":"Caleb Okkers",
-        "position":"Software Dev",
-        "message":"“I am grateful to call Taahir a close friend. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He motivates me to work because both actively and by the outcomes of his work. He is kind, generous and hilarious. Taahir would be a valuable asset to any organization.”",
-        "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/calebIcon.png"
-    }
-  ],
-  "aboutAttrList":["Self motivated", "Goal orientated", "Helpful", " A team player", "Curious", "Determined"],
-  "Hobbies":[
-    {
-      "name":"Surfing",
-      "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/surfingIcon.png"
-    },
-    {
-      "name":"Pool",
-      "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/poolIcon.png"
-    },
-    {
-      "name":"New Experiences",
-      "image":"https://arachnidarchitect.github.io/portfolio-hosting-v1/analyticsIcon.png"
-    }
-
+      "description": "This was  a six month course in which I further developed my full-stack abilities, soft-skills and met some amazing people along the way",
+      "year": "15th April 2024 to Present",
+      "institution": "Life Choices Academy",
+      "link": "https://drive.google.com/file/d/1UOIlTV2S5DLVJS_4Ew0pdIN54eqfqsqg/view?usp=sharing",
+      "contact": [
+        {
+          "name": "Matthew Brown",
+          "phone": "0715634139",
+          "email": "akhona0304mjikelo@gmail.com"
+        },
+        {
+          "name": "Akhona Mjikelo",
+          "phone": "0793890862",
+          "email": "akhona0304mjikelo@gmail.com"
+        }
       ]
+    },
+    {
+      "description": "I participated in a range of extra-cirricular activities including athletics, rugby and nasheed",
+      "year": "1st Jan 2019 to 31 Dec 2022",
+      "institution": "Islamia College",
+      "link": "https://drive.google.com/file/d/1M8kGzd97bhVRv2T7ujJFt8HewKacvtN6/view?usp=sharing",
+      "contact": [
+        {
+          "name": "Nurul Huda Kafaar",
+          "phone": "021 007 2509",
+          "email": "kafaarn@islamia.co.za"
+        },
+        {
+          "name": "Islamia College",
+          "phone": "021 696 5600",
+          "email": "info@islamia.co.za"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/htmlIcon.png"
+    },
+    {
+      "name": "Css",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/cssIcon.png"
+    },
+    {
+      "name": "Javascript",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/jsIcon.png"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/bootstrapIcon.png"
+    },
+    {
+      "name": "Vue Js",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/vueIcon.png"
+    },
+    {
+      "name": "PostgreSQL",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/sqlIcon.png"
+    },
+    {
+      "name": "Figma",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/figmaIcon.png"
+    },
+    {
+      "name": "Spline",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/splineIcon.png"
+    },
+    {
+      "name": "AWS",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/awsIcon.png"
+    }
+  ],
+  "softSkills": [
+    {
+      "name": "Leadership",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/leadershipIcon.png"
+    },
+    {
+      "name": "Teamwork",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/teamworkIcon.png"
+    },
+    {
+      "name": "Critical Thinking",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/thinkingIcon.png"
+    },
+    {
+      "name": "Innovation",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/innovativeIcon.png"
+    },
+    {
+      "name": "Communication",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/communicationIcon.png"
+    }
+  ],
+  "workExp": [
+    {
+      "placeOfWork": "Life Choices",
+      "year": "2024",
+      "description": "Full-stack Web developer Intern",
+      "link": "https://drive.google.com/file/d/1UOIlTV2S5DLVJS_4Ew0pdIN54eqfqsqg/view?usp=sharing",
+      "contact": [
+        {
+          "name": "Matthew Brown",
+          "cell": "0715634139",
+          "position": "Lecturer"
+        },
+        {
+          "name": "Joel Mukanya",
+          "cell": "",
+          "position": "Lecturer"
+        }
+      ]
+    },
+    {
+      "placeOfWork": "Boldr",
+      "year": "2023 - 2024",
+      "description": "Support Data Engineer",
+      "link": "https://drive.google.com/file/d/15qo2Sy95wr1creR9tE53dSrO26vLPKTs/view?usp=sharing",
+      "contact": [
+        {
+          "name": "Akhil Hansjee",
+          "cell": "",
+          "position": "Manager"
+        },
+        {
+          "name": "Vicky",
+          "cell": "",
+          "position": "Client Experience Manager"
+        }
+      ]
+    },
+    {
+      "placeOfWork": "Plumblink Lansdowne",
+      "year": "2023",
+      "description": "General Assistant",
+      "link": "https://drive.google.com/file/d/1og0b4PQTAiaC3XQ86MlMEpwjKjD9-PmX/view?usp=sharing",
+      "contact": [
+        {
+          "name": "Fuad Cassiem",
+          "cell": "",
+          "position": "Branch Manager"
+        },
+        {
+          "name": "Ester",
+          "cell": "",
+          "position": "Regional Manager"
+        }
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Muaath Johaar",
+      "position": "QA Tester",
+      "message": "“I am delighted to provide this testimonial for Taahir Du Toit, whom I have had the pleasure of working with at Boldr together. During our time together, I have consistently been impressed by his abilities and contributions.He is an incredibly talented individual, possessing a remarkable blend of skills, such as technical expertise, leadership and empathy. I highly recommend Taahir for any IT/ developer riles. He has proven himself to be not only a skilled professional but also a person of integrity and reliability. Feel free to contact me at muaath.johaar44@gmail.com if you would like to his experience further. Regards, Muaath Johaar”",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/muaathIcon.png"
+    },
+    {
+      "name": "Dillon Carolus",
+      "position": "Data Engineer T1",
+      "message": "“Ambition is a driving force in his life. He constantly strives to set high goals for himself. From my observations, he actively seeks self-improvement and skill development. As a colleague, he excels in team settings, taking the lead on new tasks and projects to meet deadlines. Working with Taahir has been a pleasure, he’s a kind and remarkable person.”",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/dillonIcon.png"
+    },
+    {
+      "name": "Matthew Brown",
+      "position": "Lecturer",
+      "message": "“Taahir is a driven and dedicated individual. His critical thinking really proves his skill in creativity for Web development and Data Science.”",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/matthewIcon.png"
+    },
+    {
+      "name": "Akhona Mjikelo",
+      "position": "Full-stack Web Developer",
+      "message": "“Working with Taahir has been an absolute pleasure. His drive and hard work for excellence is truly inspiring. You can tell he is passionate about helping others because whenever I need guidance, he generously shares his time and knowledge, ensuring that I am not left behind.  His supportive nature makes him a great colleague and friend.”",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/akhonaIcon.png"
+    },
+    {
+      "name": "Elvin Harris",
+      "position": "Software Dev",
+      "message": "“It's been a pleasure having Taahir in my software development class. He's an incredibly quick learner who always seems to grasp new concepts with ease. But what truly sets him apart is his willingness to share his knowledge with others. He explains things clearly and patiently, making even complex topics understandable. His passion for coding is contagious, and it motivates everyone around him to learn more.”",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/elvinIcon.png"
+    },
+    {
+      "name": "Caleb Okkers",
+      "position": "Software Dev",
+      "message": "“I am grateful to call Taahir a close friend. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He motivates me to work because both actively and by the outcomes of his work. He is kind, generous and hilarious. Taahir would be a valuable asset to any organization.”",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/calebIcon.png"
+    }
+  ],
+  "aboutAttrList": [
+    "Self motivated",
+    "Goal orientated",
+    "Helpful",
+    " A team player",
+    "Curious",
+    "Determined"
+  ],
+  "Hobbies": [
+    {
+      "name": "Surfing",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/surfingIcon.png"
+    },
+    {
+      "name": "Pool",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/poolIcon.png"
+    },
+    {
+      "name": "New Experiences",
+      "image": "https://arachnidarchitect.github.io/portfolio-hosting-v1/analyticsIcon.png"
+    }
+  ]
 }
