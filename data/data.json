@@ -8,6 +8,13 @@
   ],
   "Projects": [
     {
+      "name": "data analysis",
+      "github": "https://github.com/ArachnidArchitect/my-cool-app",
+      "vercel": "https://mycoolapp.vercel.app",
+      "description": "built with pandas, matplotlib and python",
+      "image": "https://ArachnidArchitect.github.io/portfolio-hosting-v1/1751377333397-ChatGPT Image Jul 1, 2025, 09_06_43 AM.png"
+    },
+    {
       "name": "E-Commerce",
       "github": "https://github.com/ArachnidArchitect/E-commerceEOM",
       "vercel": "https://e-commerce-eom.vercel.app/",
