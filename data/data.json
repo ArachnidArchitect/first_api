@@ -8,18 +8,6 @@
   ],
   "Projects": [
     {
-      "description": "dfsf",
-      "image": "https://ArachnidArchitect.github.io/portfolio-hosting-v1/1751448802119-booking.png"
-    },
-    {
-      "description": "fvbn",
-      "image": "https://ArachnidArchitect.github.io/portfolio-hosting-v1/1751448139705-booking.png"
-    },
-    {
-      "description": "",
-      "image": "https://ArachnidArchitect.github.io/portfolio-hosting-v1/1751447878354-tagging.png"
-    },
-    {
       "name": "E-commerce Data Analysis",
       "github": "https://github.com/ArachnidArchitect/e-com-analysis",
       "vercel": "https://nbviewer.org/github/ArachnidArchitect/e-com-analysis/blob/main/notebook.ipynb",
