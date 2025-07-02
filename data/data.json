@@ -8,6 +8,10 @@
   ],
   "Projects": [
     {
+      "description": "test",
+      "image": "https://ArachnidArchitect.github.io/portfolio-hosting-v1/1751450890207-booking.png"
+    },
+    {
       "name": "E-commerce Data Analysis",
       "github": "https://github.com/ArachnidArchitect/e-com-analysis",
       "vercel": "https://nbviewer.org/github/ArachnidArchitect/e-com-analysis/blob/main/notebook.ipynb",
