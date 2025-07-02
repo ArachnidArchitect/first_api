@@ -6,14 +6,7 @@
     "Diligence and focus are important to me. I approach tasks systematically to ensure comprehensive coverage. I excel in communication and thrive in team environments.",
     "Let's get together! I'd love the opportunity to get to know you too;)"
   ],
-  "Projects": [
-    {
-      "name": "sipho",
-      "github": "https://github.com/ArachnidArchitect/portfolio-hosting-v1",
-      "vercel": "https://github.com/ArachnidArchitect/first_api/blob/main/data/data.json",
-      "description": "sipho",
-      "image": "https://ArachnidArchitect.github.io/portfolio-hosting-v1/1751452988124-tagging.png"
-    },
+  "Projects": 
     {
       "name": "E-commerce Data Analysis",
       "github": "https://github.com/ArachnidArchitect/e-com-analysis",
